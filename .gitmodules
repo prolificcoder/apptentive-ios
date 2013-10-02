@@ -1,0 +1,3 @@
+[submodule "mknetwor"]
+	path = mknetwor
+	url = https://github.com/MugunthKumar/MKNetworkKit.git
